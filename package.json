@@ -1,0 +1,19 @@
+{
+  "name": "teams",
+  "version": "1.0.0",
+  "description": "Prueba de API REST verbs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "author": "sebastian@peretch.com",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "1.19.1"
+  }
+}
