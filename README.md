@@ -18,3 +18,6 @@ First examplle of API REST created with NodeJS + Express
 
 ## Initialize on port 8080
 1. npm start
+
+## Useful information
+1. [Object - JavaScript | MDN](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Object) - Useful constructor with many methods to manipulate objects in JavaScript.
