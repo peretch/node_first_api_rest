@@ -7,8 +7,8 @@ First examplle of API REST created with NodeJS + Express
 3. [expressjs/body-parser](https://github.com/expressjs/body-parser)
 
 ## Methods available
-1. [GET] /teams
-2. [GET] /teams/:teamId
-3. [POST] /teams
-4. [DELETE] /teams/:teamId
-5. [PATCH] /teams/:teamId
+1. /teams           **[GET]**
+2. /teams/:teamId   **[GET]**
+3. /teams           **[POST]**
+4. /teams/:teamId   **[DELETE]**
+5. /teams/:teamId   **[PATCH]**
