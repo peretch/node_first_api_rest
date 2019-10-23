@@ -21,3 +21,4 @@ First examplle of API REST created with NodeJS + Express
 
 ## Useful information
 1. [Object - JavaScript | MDN](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Object) - Useful constructor with many methods to manipulate objects in JavaScript.
+2. [Expressions and operators - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators) - List of JavaScrtipt expressions (example: 'function', 'this', 'class') and operators (example: '+', '-', 'delete', 'typeof')
